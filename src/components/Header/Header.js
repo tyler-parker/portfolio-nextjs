@@ -10,7 +10,7 @@ const Header = () =>  (
     <Div1>
       <Link href='/'>
           <a style={{ display: "flex", alignItems: "center", color: 'white', marginBottom: '18px'}}>
-            <GiStripedSun size='3rem' /> <Span>Portfolio</Span>
+            <GiStripedSun size='3rem' /> <Span>Tyler Parker</Span>
           </a>
       </Link>
     </Div1>
