@@ -38,7 +38,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2015, text: 'Joined DevPointe Labs to learn development fundamentals with Ruby on Rails', },
+  { year: 2015, text: 'Joined DevPoint Labs to learn development fundamentals with Ruby on Rails', },
   { year: 2016, text: 'Worked as a Business Analyst to gather requirements for developers', },
   { year: 2019, text: 'Worked as a Data Management Analyst at Willis Towers Watson to integrate data with our partners', },
   { year: 2021, text: 'Joined VSchool to learn the MERN stack', },

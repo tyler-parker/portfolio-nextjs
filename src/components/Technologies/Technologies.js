@@ -28,7 +28,7 @@ const Technologies = () =>  (
       <DiFirebase size='3rem'/>
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
-          <ListParagraph>Expresss <br /> Mongo DB <br /> SQL Server <br /> PostgreSQL</ListParagraph>
+          <ListParagraph>Expresss <br /> Mongo DB <br /> Microsoft SQL Server <br /> PostgreSQL</ListParagraph>
         </ListContainer>
       </ListItem>
     </List>
