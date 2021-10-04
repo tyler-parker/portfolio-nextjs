@@ -7,6 +7,9 @@ import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTi
 const Footer = () => {
   return (
     <FooterWrapper>
+        <CompanyContainer>
+          <Slogan>I look forward to meeting you!</Slogan>
+        </CompanyContainer>
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
@@ -16,11 +19,8 @@ const Footer = () => {
           <LinkTitle>Email</LinkTitle>
           <LinkItem href='mailto:tparker42d2@gmail.com'>tparker42d2@gmail.com</LinkItem>
         </LinkColumn>
-      </LinkList>
+        <LinkColumn>
       <SocialIconsContainer>
-        <CompanyContainer>
-          <Slogan>Here's my slogan if I wanted one</Slogan>
-        </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/tyler-parker">
             <AiFillGithub size='3rem' />
@@ -30,6 +30,8 @@ const Footer = () => {
           </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>
+        </LinkColumn>
+      </LinkList>
     </FooterWrapper>
   );
 };
