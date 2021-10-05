@@ -13,7 +13,7 @@ export const projects = [
     description:"Displaying data from the 846 API that collects incidents of violence caused by police that interrupt peaceful George Floyed-related protests. I used context providers to manage different sets of data and functions along with a few open-source libraries that taught me a lot about using other people's code.",
     image: '/images/police-brutality.PNG',
     tags: ['React', 'Chakra UI'],
-    source: 'https://github.com/tyler-parker/police-brutality-project',
+    source: 'https://github.com/tyler-parker/incident-tracker',
     visit: 'https://google.com',
     id: 1,
   },
