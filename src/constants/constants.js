@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'ARTIC',
+    title: 'The Art Institute of Chicago',
     description: "An art gallery with Open Access pictures sourced from The Art Institute of Chicago. Use the search function to find collections of amazing artworks hosted by the ARTIC. Here I demonstrate working with a partner on calling data from our API and establishing a database/server to store data collected from users.",
       image: '/images/ARTIC-project.PNG',
       tags: ['Mongo', 'Express', 'React'],
@@ -9,7 +9,7 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Police Brutality API',
+    title: 'Incident Tracker',
     description:"Displaying data from the 846 API that collects incidents of violence caused by police that interrupt peaceful George Floyed-related protests. I used context providers to manage different sets of data and functions along with a few open-source libraries that taught me a lot about using other people's code.",
     image: '/images/police-brutality.PNG',
     tags: ['React', 'Chakra UI'],
