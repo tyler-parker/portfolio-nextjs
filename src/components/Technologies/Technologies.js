@@ -7,7 +7,7 @@ const Technologies = () =>  (
   <Section id="tech">
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range of technologies to build on the web!
+      I've worked with a range of technologies to build on the web
     </SectionText>
     <List>
       <ListItem>
