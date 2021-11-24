@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/ARTIC-project.PNG',
       tags: ['Mongo', 'Express', 'React'],
     source: 'https://github.com/tyler-parker/ARTIC-project',
-    visit: 'https://google.com',
+    visit: 'https://artic-psi.vercel.app/',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/police-brutality.PNG',
     tags: ['React', 'Chakra UI'],
     source: 'https://github.com/tyler-parker/incident-tracker',
-    visit: 'https://google.com',
+    visit: '',
     id: 1,
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
       image: '/images/ugly-things.PNG',
       tags: ['React', 'Chakra UI'],
     source: 'https://github.com/tyler-parker/ugly-things',
-    visit: 'https://google.com',
+    visit: 'https://ugly-things.vercel.app/',
     id: 2,
   },
   {
@@ -32,10 +32,10 @@ export const projects = [
     image: '/images/rtv.PNG',
     tags: ['React', 'Mongo', 'Express', 'Chakra UI'],
     source: 'https://github.com/tyler-parker/rock-the-vote',
-    visit: 'https://google.com',
+    visit: '',
     id: 3,
   },
-];
+]
 
 export const TimeLineData = [
   { year: 2015, text: 'Joined DevPoint Labs to learn development fundamentals with Ruby on Rails', },
@@ -43,4 +43,4 @@ export const TimeLineData = [
   { year: 2019, text: 'Worked as a Data Management Analyst at Willis Towers Watson to integrate data with our partners', },
   { year: 2021, text: 'Joined VSchool to learn the MERN stack', },
   { year: 2021, text: 'Completed VSchool to search for a job!', },
-];
+]
