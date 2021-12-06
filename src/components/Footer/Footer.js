@@ -20,7 +20,7 @@ const Footer = () => {
           <LinkItem href='mailto:tparker42d2@gmail.com'>tparker42d2@gmail.com</LinkItem>
         </LinkColumn>
         <LinkColumn>
-      <SocialIconsContainer>
+      <SocialIconsContainer >
         <SocialContainer>
           <SocialIcons href="https://github.com/tyler-parker">
             <AiFillGithub size='3rem' />
